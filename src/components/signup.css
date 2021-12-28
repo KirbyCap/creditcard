@@ -1,0 +1,16 @@
+#labelName{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.thirdText{
+    width:300px;
+    display: inline;
+}
+#dob{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.secondText{
+    display: inline;
+    width: 450px;
+}
